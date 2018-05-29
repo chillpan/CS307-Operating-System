@@ -1,0 +1,28 @@
+\contentsline {section}{\numberline {1}Project Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Project Environment}{2}{section.2}
+\contentsline {section}{\numberline {3}Project Realization}{2}{section.3}
+\contentsline {subsection}{\numberline {3.1}Thread Functions}{2}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Create Thread}{3}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Waiting till Completion}{3}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Calculating the Running Time}{3}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Multi-thread for Windows}{4}{subsection.3.5}
+\contentsline {section}{\numberline {4}Project Result}{4}{section.4}
+\contentsline {subsection}{\numberline {4.1}Linux}{4}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Result}{4}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Acceleration of different core}{5}{subsubsection.4.1.2}
+\contentsline {subsection}{\numberline {4.2}Windows}{5}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Result}{5}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Acceleration of different threads}{5}{subsubsection.4.2.2}
+\contentsline {section}{\numberline {5}Project Analysis}{6}{section.5}
+\contentsline {subsection}{\numberline {5.1}Thread Mountain}{6}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Analysis of Thread Mountain}{6}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}At the Foot of Thread Mountain}{6}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}Sharp Dips of the Throughput: Difference in Threads}{8}{subsubsection.5.2.2}
+\contentsline {subsubsection}{\numberline {5.2.3}Ridge Line}{9}{subsubsection.5.2.3}
+\contentsline {subsection}{\numberline {5.3}$n \times n $ Threads Performance}{9}{subsection.5.3}
+\contentsline {section}{\numberline {6}Problems Conquered}{10}{section.6}
+\contentsline {subsection}{\numberline {6.1}Pid is the Same}{10}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}CPU Dumped Encountered with too Much Threads}{10}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Running with Multi-Core}{11}{subsection.6.3}
+\contentsline {section}{\numberline {7}Harvest}{11}{section.7}
+\contentsline {section}{\numberline {8}Further Work}{11}{section.8}
